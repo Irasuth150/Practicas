@@ -1,0 +1,38 @@
+nav{
+    color: #004445 ;
+    padding: 20px;
+    width: 30%;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+}
+.columna{
+    background: #bae8e8 ;
+    color: black;
+    padding: 20px;
+    width: 20%;
+    margin: 8px;
+}
+.padre{
+    display: flex;;
+}
+.monospace {
+    font-family: Lucida Sans;
+    color:#004445;
+}
+.nav-enlace{
+    display: inline-block;
+    background: #06623b;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: rosybrown;
+}
+/*button{
+   background:  #d8c593;
+   color: #bb3b0e ;
+   width: 15%;
+   margin: 2%;
+}*/

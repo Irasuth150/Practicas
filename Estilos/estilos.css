@@ -1,0 +1,19 @@
+h1{
+    color: black;
+    font-size: 40px;
+}
+h2{
+    color: green;
+    font-size: 40px;
+}
+#unico{
+    color: seagreen;
+    font-size: 60px;
+}
+.azul{
+    color: sienna;
+    font-size: 50px;  
+}
+.fondo{
+    background: slategray;
+}
